@@ -1,2 +1,2 @@
-let nombre = "Carlos";
-console.log(`que pets ${nombre}`);
+let nombre = "Vero";
+console.log(`que pets ${nombre}!!!`);
